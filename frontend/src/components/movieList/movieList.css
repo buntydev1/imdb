@@ -1,0 +1,32 @@
+.movie__list {
+    padding: 0 3rem 3rem 3rem;
+}
+
+.list__title {
+font-size: 1.75rem;
+margin:  2.5rem;
+}
+/* 
+.list__cards {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+} */
+table {
+    border: 2px solid rgb(244, 244, 244);
+    /* width: 800px;
+    height: 200px; */
+  }
+    
+  th {
+    border-bottom: 1px solid rgb(255, 255, 255);
+  }
+    
+  td {
+    text-align: center;
+    border: 1px solid rgb(250, 244, 244);
+  }
+
+  table, th, td {
+    border: 1px solid rgb(250, 244, 244);
+  }
